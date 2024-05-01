@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<summary>📈 Stats</summary>
+📈 Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephen-eades&theme=dracula) 
 
