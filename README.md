@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Stephen+Eades;Software+Engineer+%7C+Researcher+%7C+Investor;Robotics+%7C+AI/ML+%7C+Automation+%7C+Web3+%7C+Visualizations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80repeat=false&lines=Stephen+Eades;Software+Engineer+%7C+Researcher+%7C+Investor;Robotics+%7C+AI/ML+%7C+Automation+%7C+Web3+%7C+Visualizations" alt="Typing SVG" />
 </a>
 <br/>
 
