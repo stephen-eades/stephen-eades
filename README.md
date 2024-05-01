@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Stephen+Eades+%7C+Software+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Stephen+Eades+%7C+Software+Engineer+%7C+Business+owner+%7C+Investor;" alt="Typing SVG" />
 </a>
 <br/>
 
