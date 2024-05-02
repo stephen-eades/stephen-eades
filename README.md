@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-📈 Stats
+## 📈 Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephen-eades&theme=dracula) 
 
