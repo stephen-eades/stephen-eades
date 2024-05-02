@@ -16,11 +16,11 @@
 </p>
 
 <div align="center">
-## 📈 Stats
+📈 Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephen-eades&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephen-eades&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stephen-eades&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stephen-eades&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stephen-eades&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stephen-eades&theme=nightowl)
 
 </div>
