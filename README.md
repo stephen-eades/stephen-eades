@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/stephen-eades">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&center=true&multiline=true&width=500&height=80&repeat=false&lines=Stephen+Eades;Software+Engineer+%7C+Researcher+%7C+Investor;Robotics+%7C+AI/ML+%7C+Automation+%7C+Web3+%7C+Visualizations" alt="Typing SVG" />
 </a>
 <br/>
